@@ -1,8 +1,4 @@
-# 🚀 AWS EC2 Web Server Deployment
-
-![AWS](https://img.shields.io/badge/AWS-EC2-orange)
-![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+🚀 AWS EC2 Web Server Deployment
 
 ## 📌 Project Overview
 
@@ -59,7 +55,7 @@ The objective was to:
 - Public IP assigned.
 
 📂 Screenshot:
-`ec2-instance-running.png.png`
+`ec2-instance-running.png`
 
 ---
 
@@ -69,15 +65,15 @@ The objective was to:
 - HTTPS (443)
 
 📂 Screenshot:
-`security-group-rules.png.png`
+`security-group-rules.png`
 
 ---
 
-### 3️⃣ Instance Termination (Optional)
+### 3️⃣ Instance Termination
 - Instance terminated after task completion.
 
 📂 Screenshot:
-`instance-termination.png.png`
+`instance-termination.png`
 
 ---
 
@@ -106,7 +102,7 @@ The objective was to:
 
 ## 👨‍💻 Author
 
-**Akshit Rawat**
+Akshit Rawat
 
 📧 Cloud Computing Enthusiast  
 ☁️ AWS Learner  
