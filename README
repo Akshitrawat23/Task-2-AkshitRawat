@@ -55,7 +55,7 @@ The objective was to:
 - Public IP assigned.
 
 📂 Screenshot:
-`ec2-instance-running.png`
+ec2-instance-running.png
 
 ---
 
@@ -65,7 +65,7 @@ The objective was to:
 - HTTPS (443)
 
 📂 Screenshot:
-`security-group-rules.png`
+security-group-rules.png
 
 ---
 
@@ -73,7 +73,7 @@ The objective was to:
 - Instance terminated after task completion.
 
 📂 Screenshot:
-`instance-termination.png`
+instance-termination.png
 
 ---
 
