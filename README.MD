@@ -58,7 +58,7 @@ The objective was to:
 - Public IP assigned.
 
 📂 Screenshot:
-ec2-instance-running.png
+![screenshot](ec2-instance-running.png.png)
 
 ---
 
