@@ -57,7 +57,7 @@ The objective was to:
 - Status checks passed.
 - Public IP assigned.
 
-📂 Screenshot:
+#📂 Screenshot:
 ![screenshot](ec2-instance-running.png.png)
 
 ---
