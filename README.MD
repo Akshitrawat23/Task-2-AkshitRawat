@@ -67,8 +67,8 @@ The objective was to:
 - HTTP (80)
 - HTTPS (443)
 
-📂 Screenshot:
-security-group-rules.png
+# 📂 Screenshot:
+![screenshot](security-group-rules.png.png)
 
 ---
 
