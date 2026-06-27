@@ -76,7 +76,7 @@ The objective was to:
 - Instance terminated after task completion.
 
 📂 Screenshot:
-instance-termination.png
+![screenshot3](instance-termination.png.png)
 
 ---
 
