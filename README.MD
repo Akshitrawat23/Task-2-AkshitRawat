@@ -1,4 +1,4 @@
-# task 2 
+# TASK-2 
 # ☁️AWS 
 
 ## 🚀 AWS EC2 Web Server Deployment
